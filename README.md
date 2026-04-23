@@ -38,6 +38,7 @@ I'm a passionate full-stack developer who enjoys building web applications from 
 **Frontend**
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
@@ -63,46 +64,3 @@ I'm a passionate full-stack developer who enjoys building web applications from 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
----
-
-## Featured Projects
-
-### 💬 Chat App
-A real-time chat application with rooms, online presence, and live messaging.
-- **Stack:** NestJS · Angular 17 · Socket.IO · TypeScript
-- Features: authentication, room management, real-time typing indicators, message history
-- [View repo](https://github.com/Tobie2222)
-
-### 🧬 Genetics Tool (Bioinformatics)
-A web-based bioinformatics tool for genetic data analysis.
-- **Stack:** TypeScript (backend) · HTML (frontend)
-- [Backend](https://github.com/Tobie2222/genetics-backend) · [Frontend](https://github.com/Tobie2222/genetics-frontend)
-
-### 💰 Money Manager
-A full-stack personal finance tracking application.
-- **Stack:** JavaScript · Node.js
-- [Backend](https://github.com/Tobie2222/Money_BE) · [Frontend](https://github.com/Tobie2222/Money_FE)
-
-### 👔 Employee Management
-Backend system for managing employees and organizational data.
-- **Stack:** Java
-- [View repo](https://github.com/Tobie2222/Employee-Management-BE)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobie2222&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*Thanks for stopping by! Feel free to check out my projects or reach out.*
-
-</div>
